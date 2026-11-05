@@ -26,6 +26,18 @@ Mod do fan làm, đưa *Elden Ring Nightreign* (NR) vào *Elden Ring* (ER), nh�
 
 **Tarnished giữ nguyên Elden Ring gốc**: luật của Nightreign chỉ áp dụng khi bạn chơi Nightfarer.
 
+## Bản đầu tiên – 0.1.0 (đang làm)
+
+Bản đầu cố ý làm gọn, để mọi thứ trong đó chơi thật chuẩn:
+
+| | Nội dung |
+|---|---|
+| 🗡️ **Wylder** (Nightfarer) | Bộ chiêu NR, nội tại *Sixth Sense*, skill *Claw Shot*, ultimate *Onslaught Stake*, vũ khí và trang phục NR |
+| 🏃 **Nightreign movement** | Chuyển động kiểu Nightreign cho Nightfarer, dựa trên *Nightreign Movement* của Neirox, đã làm mượt |
+| 🐺 **Gladius, Beast of Night** (Nightlord) | Bản thường + Everdark gộp thành một trận, trên đấu trường Nightreign, có nhạc riêng |
+
+Các Nightfarer và Nightlord khác sẽ ra ở những bản sau (xem lộ trình bên dưới).
+
 ## Tải về
 
 Mod sẽ phát hành trên **Nexus Mods**; link xuất hiện ở đây cùng bản 0.1.0.

@@ -26,6 +26,18 @@ A fan-made mod that brings *Elden Ring Nightreign* (NR) into *Elden Ring* (ER), 
 
 The **Tarnished stays pure Elden Ring**: Nightreign rules only apply while you play a Nightfarer.
 
+## First release – 0.1.0 (in progress)
+
+The first version is small on purpose, so that everything in it plays right:
+
+| | What you get |
+|---|---|
+| 🗡️ **Wylder** (Nightfarer) | NR moveset, the *Sixth Sense* passive, the *Claw Shot* skill and the *Onslaught Stake* ultimate, his NR weapons and outfit |
+| 🏃 **Nightreign movement** | Nightreign-style movement for Nightfarers, based on Neirox's *Nightreign Movement* and polished |
+| 🐺 **Gladius, Beast of Night** (Nightlord) | Normal and Everdark versions merged into one fight, on its Nightreign arena, with its music |
+
+More Nightfarers and Nightlords follow in later releases (see the roadmap below).
+
 ## Download
 
 The mod will be released on **Nexus Mods**. The link appears here with version 0.1.0.
