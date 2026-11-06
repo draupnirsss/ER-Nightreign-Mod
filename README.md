@@ -59,7 +59,15 @@ See [CHANGELOG.md](CHANGELOG.md) for what each release contains.
 
 ## Requirements (for players)
 
-- *Elden Ring* on Steam, kept at the game version stated on each release.
+- *Elden Ring* on Steam **with the *Shadow of the Erdtree* DLC**.
+- *Elden Ring Nightreign* on Steam **with the *The Forsaken Hollows* DLC** (you must own it). Close it before playing the mod: both games open at once crash.
+- **Supported game version** – check the title screen:
+
+  | Mod | App Ver. | Regulation Ver. |
+  |---|---|---|
+  | 0.1.0 | **1.17.2** | **1.17.3** |
+
+  Other game versions are not supported. When *Elden Ring* updates, wait for a mod update before playing.
 - [Mod Engine 3](https://github.com/garyttierney/me3).
 - **Offline only.** The mod runs the game without Easy Anti-Cheat; never go online with it. It uses its own save file, so your normal save is untouched.
 - This is a fan tribute: please support FromSoftware by owning *Elden Ring Nightreign*.

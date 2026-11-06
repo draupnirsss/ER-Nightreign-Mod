@@ -6,7 +6,8 @@ labels: bug
 ---
 
 **Mod version · Bản mod:** (e.g. 0.1.0)
-**Elden Ring version · Bản Elden Ring:** (title screen, bottom right · góc dưới phải màn hình chính)
+**Elden Ring version · Bản Elden Ring:** App Ver. … / Regulation Ver. … (title screen · màn hình tiêu đề; e.g. 1.17.2 / 1.17.3)
+**DLC:** Shadow of the Erdtree ☐ · The Forsaken Hollows (Nightreign) ☐
 
 **What happened · Chuyện gì xảy ra**
 

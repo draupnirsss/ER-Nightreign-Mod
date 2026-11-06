@@ -59,7 +59,15 @@ Mỗi bản có gì: xem [CHANGELOG.md](CHANGELOG.md).
 
 ## Yêu cầu (cho người chơi)
 
-- *Elden Ring* bản Steam, giữ đúng phiên bản game ghi ở từng bản phát hành.
+- *Elden Ring* bản Steam **có DLC *Shadow of the Erdtree***.
+- *Elden Ring Nightreign* bản Steam **có DLC *The Forsaken Hollows*** (bắt buộc sở hữu). Tắt game này trước khi chơi mod: mở cả hai game cùng lúc sẽ văng.
+- **Phiên bản game được hỗ trợ** – xem ở màn hình tiêu đề:
+
+  | Mod | App Ver. | Regulation Ver. |
+  |---|---|---|
+  | 0.1.0 | **1.17.2** | **1.17.3** |
+
+  Phiên bản game khác không được hỗ trợ. Khi *Elden Ring* cập nhật, chờ bản mod mới rồi hãy chơi.
 - [Mod Engine 3](https://github.com/garyttierney/me3).
 - **Chỉ chơi offline.** Mod chạy game không có Easy Anti-Cheat; đừng bao giờ vào mạng bằng mod. Mod dùng save riêng, save thường của bạn không bị đụng tới.
 - Đây là mod tri ân: hãy ủng hộ FromSoftware bằng cách mua *Elden Ring Nightreign*.

@@ -17,5 +17,10 @@ Mỗi bản ghi nội dung thêm mới, phiên bản Elden Ring cần dùng và 
 Only this content is in 0.1.0; other Nightfarers and Nightlords come in later releases.
 Bản 0.1.0 chỉ có những nội dung trên; Nightfarer và Nightlord khác ra ở các bản sau.
 
-Game version, install steps and known issues will be listed here on release.
-Phiên bản game, cách cài và lỗi đã biết sẽ ghi ở đây khi phát hành.
+**Requires · Yêu cầu**
+
+- *Elden Ring* App Ver. **1.17.2** / Regulation Ver. **1.17.3** + DLC *Shadow of the Erdtree*.
+- *Elden Ring Nightreign* + DLC *The Forsaken Hollows* (owned · bắt buộc sở hữu).
+
+Install steps and known issues will be listed here on release.
+Cách cài và lỗi đã biết sẽ ghi ở đây khi phát hành.
