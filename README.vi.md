@@ -80,7 +80,7 @@ Mở một [issue](../../issues/new/choose) theo mẫu báo lỗi. Ghi rõ bản
 
 - **FromSoftware / Bandai Namco** – *Elden Ring* và *Elden Ring Nightreign*.
 - **Neirox** – *Nightreign Movement*, nền tảng mà mod này dựng lên trên.
-- **BelgerMod** – asset ERTE, dùng có ghi công.
+- **BelgerMod** – *ERTE*, nguồn cảm hứng của dự án (không dùng file nào của ERTE).
 - **Mod Engine 3** – trình nạp mod.
 - **Smithbox** – công cụ và thư viện làm mod.
 

@@ -80,7 +80,7 @@ Open an [issue](../../issues/new/choose) using the bug report template. Include 
 
 - **FromSoftware / Bandai Namco** – *Elden Ring* and *Elden Ring Nightreign*.
 - **Neirox** – *Nightreign Movement*, the base this mod builds on.
-- **BelgerMod** – ERTE assets used with credit.
+- **BelgerMod** – *ERTE*, an inspiration for this project (no ERTE files are used).
 - **Mod Engine 3** – mod loader.
 - **Smithbox** – modding tools and libraries.
 
